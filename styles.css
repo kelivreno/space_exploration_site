@@ -9,9 +9,10 @@ body {
     font-optical-sizing: auto;
     font-weight: 900;
     font-style: normal;
+    text-align: center;
 }
 
-.wrap {
+/* .wrap {
     display: flex;
     flex-direction: column;
     margin: 0 auto 0 auto;
@@ -20,16 +21,20 @@ body {
     font-size: 15px;
     justify-content: center;
     align-items: center;
-}
+} */
 
-.apply {
+.btn {
     font-size: large;
-    padding: 8px 10px;
-    width: 70px;
+    padding: 8px 9px;
+    /* width: 80px; */
     border: none;
     background: white;
     font-family: "Orbitron", serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+}
+
+.underline {
+    border-bottom: 4px solid black;
 }
