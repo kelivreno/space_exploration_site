@@ -45,3 +45,7 @@ body {
 #logo {
     width: 100px
 }
+
+#title {
+    text-shadow: 0 0 4px black;
+}
