@@ -5,6 +5,10 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed; 
+    font-family: "Orbitron", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
 }
 
 .wrap {
@@ -23,4 +27,9 @@ body {
     padding: 8px 10px;
     width: 70px;
     border: none;
+    background: white;
+    font-family: "Orbitron", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
