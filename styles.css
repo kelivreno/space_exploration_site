@@ -1,3 +1,26 @@
+body {
+    color: white;
+    background-image: url("images/universe.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
 
+.wrap {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto 0 auto;
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+}
 
-
+.apply {
+    font-size: large;
+    padding: 8px 10px;
+    width: 70px;
+    border: none;
+}
